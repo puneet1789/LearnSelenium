@@ -10,7 +10,7 @@ public class Login {
 
 		FirefoxDriver FF = new FirefoxDriver();
 	
-		FF.get("http://www.fb.com");	
+		FF.get("http://www.google.com");	
 		Thread.sleep(5000);
 		
 	}
